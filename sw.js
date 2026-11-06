@@ -1,4 +1,4 @@
-const CACHE_NAME = 'grimoire-ak-v8';
+const CACHE_NAME = 'grimoire-ak-v9';
 const ASSETS = [
   '/grimoire-AK/',
   '/grimoire-AK/index.html',
